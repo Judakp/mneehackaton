@@ -1,0 +1,5 @@
+{
+  "name": "MNEE Agent-Relay",
+  "description": "An autonomous AI arbitrageur prototype for the MNEE stablecoin ecosystem. It decomposes complex tasks, hires specialized agents, and manages micro-payments in MNEE (6 decimals) while maintaining a profit margin.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,6 @@
+[build]
+  command = "npm run build"
+  publish = "dist" # ou "out" si tu es sur Next.js, "build" si tu es sur Create React App
+
+[functions]
+  directory = "netlify/functions"
