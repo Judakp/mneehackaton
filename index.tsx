@@ -1,4 +1,4 @@
-
+import './index.css'; // <--- Cette ligne est VITALE
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
